@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sugerencia">sugerencia</string>
+
+    <string name="mensaje1"> Mi ubicación actual es: </string>
+    <string name="mensaje2"> Mi dirección actual es:</string>
+</resources>
